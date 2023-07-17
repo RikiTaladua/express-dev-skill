@@ -7,8 +7,6 @@ module.exports = {
 	create,
 	delete: deleteOne
 	
-	// optionally
-	// index
 }
 
 function deleteOne(req, res){

@@ -4,7 +4,6 @@ const skills = [
     {id: 20, skill: 'javascript', done: true},
 ];
 
-
 module.exports = {
     getAll,
     getOne,
